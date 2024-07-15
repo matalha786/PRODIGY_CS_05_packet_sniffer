@@ -53,4 +53,3 @@ The application utilizes Scapy for packet sniffing and Tkinter for the graphical
 ## License
 
 This project is licensed under the GPL License - see the LICENSE file for details.
-```
