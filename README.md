@@ -29,8 +29,7 @@ Packet Sniffer Application is a Python-based GUI tool for sniffing and logging n
 1. Clone the repository:
 
    ```
-   git clone <repository_url>
-   cd PacketSniffer
+   git clone https://github.com/matalha786/PRODIGY_CS_05_packet_snifferr
    ```
 
 2. Run the application:
